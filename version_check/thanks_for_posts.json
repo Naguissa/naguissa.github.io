@@ -2,7 +2,7 @@
 	"stable": {
 		"3.2": {
 			"current": "3.2.13",
-			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2423931&p=15235141#p15235141",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2423931&p=15235141",
 			"download": "https://github.com/Naguissa/thanks_for_posts/archive/3.2.13.zip",
 			"eol": null,
 			"security": false
