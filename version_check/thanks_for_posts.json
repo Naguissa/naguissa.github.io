@@ -1,9 +1,9 @@
 {
 	"stable": {
-		"3.3": {
-			"current": "3.3.0",
-			"announcement": "https://www.phpbb.com/community/viewtopic.php?p=15810196#p15810196",
-			"download": "https://github.com/Naguissa/thanks_for_posts/archive/refs/tags/3.3.0.zip",
+		"4.0": {
+			"current": "4.0.0",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?p=15812371#p15812371",
+			"download": "https://github.com/Naguissa/thanks_for_posts/archive/refs/tags/4.0.0.zip",
 			"eol": null,
 			"security": false
 		}
